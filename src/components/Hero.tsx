@@ -1,4 +1,3 @@
-import React from 'react';
 import { Play, Users, Trophy, Calendar } from 'lucide-react';
 
 const Hero = () => {

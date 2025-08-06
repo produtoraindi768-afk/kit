@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Search, Menu, X, Facebook, Twitter, Youtube } from 'lucide-react';
 
 const Header = () => {

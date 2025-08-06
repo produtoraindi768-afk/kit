@@ -1,4 +1,3 @@
-import React from 'react';
 import { Star, Award, Target } from 'lucide-react';
 
 const Players = () => {
